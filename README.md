@@ -1,5 +1,4 @@
-# ENR2105
-# Numerical Analysis for Energy Resources Engineering
+# (ENR2105) Numerical Analysis for Energy Resources Engineering
 
 This repository provides Python code and Jupyter Notebook examples for the course **Numerical Analysis for Energy Resources Engineering**, offered by the **Department of Energy Resources Engineering, Inha University**, in the **Fall Semester of 2026**.
 
